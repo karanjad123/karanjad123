@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/karan-jadhav-0957ba194" target="_blank">
+  <a href="https://www.linkedin.com/in/karan-jadhav-0957ba194/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://karanprashantjadhav.netlify.app/" target="_blank">
@@ -28,7 +28,7 @@ I love solving hard problems at the intersection of distributed systems, identit
 - 🏗️ **Currently building**: RAG chatbot with LangChain + LLaMA 3.1 + Qdrant
 - 🌱 **Learning**: AWS Solutions Architect, advanced Kafka patterns
 - 💬 **Ask me about**: Spring Boot, Kafka event-driven architecture, OAuth2/OIDC, Keycloak, zero-downtime migrations
-- 📄 **Resume**: [View PDF](https://karanjad123.netlify.app/resume)
+- 📄 **Resume**: [View PDF](https://karanprashantjadhav.netlify.app/resume)
 
 ---
 
@@ -89,5 +89,5 @@ Full-stack RAG pipeline — upload documents, ask questions, get grounded answer
 
 <p align="center">
   <i>Open to Senior Java Backend / Full-Stack roles in Atlanta or Remote · H1B Transfer Welcome</i><br/>
-  <a href="https://www.linkedin.com/in/karanjad123">LinkedIn</a> · <a href="https://karanjad123.netlify.app">Portfolio</a> · karanjad123@gmail.com
+  <a href="https://www.linkedin.com/in/karan-jadhav-0957ba194/">LinkedIn</a> · <a href="https://karanprashantjadhav.netlify.app/">Portfolio</a> · karanjad123@gmail.com
 </p>

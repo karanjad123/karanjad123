@@ -6,10 +6,10 @@
 </p>
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/karanjad123](https://www.linkedin.com/in/karan-jadhav-0957ba194)" target="_blank">
+  <a href="https://www.linkedin.com/in/karan-jadhav-0957ba194" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://karanjad123.netlify.app" target="_blank">
+  <a href="https://karanprashantjadhav.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="mailto:karanjad123@gmail.com">

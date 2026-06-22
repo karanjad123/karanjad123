@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/karanjad123" target="_blank">
+  <a href="[https://www.linkedin.com/in/karanjad123](https://www.linkedin.com/in/karan-jadhav-0957ba194)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://karanjad123.netlify.app" target="_blank">
@@ -77,16 +77,6 @@ Full-stack RAG pipeline — upload documents, ask questions, get grounded answer
 - **Stack**: LangChain · Groq/LLaMA 3.1 · Qdrant · FastAPI · React/Vite · Tailwind
 - Ingests 500+ documents with sub-2s retrieval; MD5 deduplication; per-document delete
 - Drag-and-drop upload, paginated doc list, real-time streaming responses
-
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karanjad123&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanjad123&layout=compact&theme=dark&hide_border=true" height="150"/>
-</p>
 
 ---
 
